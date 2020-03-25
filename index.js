@@ -7,4 +7,4 @@ exports = module.exports = () => new Schema({
 
 exports.JoiSchema = require('./schema/joi')
 
-exports.DefaultSchema = require('./schema/default'),
+exports.DefaultSchema = require('./schema/default')
