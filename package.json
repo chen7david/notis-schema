@@ -1,0 +1,24 @@
+{
+  "name": "notis-schema",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chen7david/notis-schema.git"
+  },
+  "keywords": [
+    "schemas",
+    "for",
+    "notis"
+  ],
+  "author": "David M.Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chen7david/notis-schema/issues"
+  },
+  "homepage": "https://github.com/chen7david/notis-schema#readme",
+  "dependencies": {
+    "notis": "0.0.1"
+  }
+}
